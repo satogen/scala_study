@@ -8,4 +8,8 @@ Scalaのデータ型の基礎
 - Expressions  
 Scalaの演算・IF・While・コードブロック
 
-- 
+- Function  
+Scalaの関数ソースコード
+
+- Recursion  
+末尾再帰関数
