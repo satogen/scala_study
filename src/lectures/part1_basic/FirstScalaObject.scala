@@ -1,4 +1,4 @@
-package part1_basic
+package lectures.part1_basic
 
 case object FirstScalaObject extends App{
   val x: Int = 42
